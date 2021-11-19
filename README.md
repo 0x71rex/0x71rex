@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### :zap: GitHub Stats
 
 <a href="https://github.com/0x71rex">
-  <img align="center" alt="0x71rex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&card_width=495&layout=compact" />
+  <img align="center" alt="0x71rex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="495" />
 </a>
 <br />
 <a href="https://github.com/0x71rex">
