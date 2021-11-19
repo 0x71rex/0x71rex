@@ -9,7 +9,7 @@
 </a>
 
 <br />
-  
+
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex">
   <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic" width="151" height="19" />
 </a>
@@ -46,15 +46,14 @@
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
 <img align="left" alt="Mikrotik" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mikrotik/mikrotik.png" />
 
+<br />
+<br />
+
 <!--
 **0x71rex/0x71rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-<br />
-
-
 
 ---
 
