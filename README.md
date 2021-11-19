@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Indonesia
 - 🌱 I’m currently learning Go
-- 🤔 I’m looking for help with [hun7rex](https://github.com/0x71rex/hun7rex)
 - 😄 Pronouns: Stay n00b!
+- 🤔 I’m looking for help with [hun7rex](https://github.com/0x71rex/hun7rex)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x71rex&repo=hun7rex&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/0x71rex/hun7rex)
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -53,4 +55,6 @@ Here are some ideas to get you started:
 :zap: GitHub Stats
 
 <img align="center" alt="0x71rex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/0x71rex)
 
