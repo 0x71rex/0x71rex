@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Indonesia
 - 🌱 I’m currently learning Go
-- 🤔 I’m looking for help with hun7rex
+- 🤔 I’m looking for help with [hun7rex](https://github.com/0x71rex/hun7rex)
 - 😄 Pronouns: Stay n00b!
 
 <!--
