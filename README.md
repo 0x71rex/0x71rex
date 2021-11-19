@@ -46,8 +46,8 @@
 <img align="left" alt="Windows" width="35px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/windows.png" />
 <img align="left" alt="Mikrotik" width="35px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/mikrotik.png" />
 
-<br />
-<br />
+
+
 <br />
 <br />
 
