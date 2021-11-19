@@ -1,8 +1,9 @@
-### Hello, Friend.
+### 🇮🇩 🇵🇸
+### Hello, Friend...
 
 
 
-### Connect with me:
+### 🤙 Connect with me:
 
 [![Chat on Discord](https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic)](https://discord.gg/cTKMyNuDNH)
 
@@ -10,7 +11,7 @@
 
 
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-### Profile
+### 🧔 Profile:
 
 - 🔭 I’m currently working on Indonesia
 - 🌱 I’m currently learning Go
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
-:zap: GitHub Stats
+### :zap: GitHub Stats:
 
 <a href="https://github.com/0x71rex">
   <img align="center" alt="0x71rex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&card_width=495" />
