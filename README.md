@@ -36,15 +36,15 @@
 
 ### 💻 Languages and Tools
 
-<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="ParrotSecOS" width="26px" src="https://parrotsec.org/images/logo.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
-<img align="left" alt="Mikrotik" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mikrotik/mikrotik.png" />
+<img align="left" alt="GoLang" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/go.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/github.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/python.png" />
+<img align="left" alt="Parrot" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/parrot.png" />
+<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/bash.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/sql.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/git.png" />
+<img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/windows.png" />
+<img align="left" alt="Mikrotik" width="40px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/mikrotik.png" />
 
 
 <br />
