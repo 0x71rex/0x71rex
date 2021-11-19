@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 :zap: GitHub Stats
 
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x71rex&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="0x71rex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
