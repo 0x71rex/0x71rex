@@ -5,13 +5,13 @@
 ### 🤙 Connect with me
 
 <a href="https://discord.gg/cTKMyNuDNH">
-  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic" width="151" height="18" />
+  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic" width="151" height="19" />
 </a>
 
 <br />
   
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex">
-  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic" width="151" height="18" />
+  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic" width="151" height="19" />
 </a>
                                                    
 ---
