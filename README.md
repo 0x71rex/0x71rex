@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Stay n00b!
 - 🤔 I’m looking for help with [hun7rex](https://github.com/0x71rex/hun7rex)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x71rex&repo=hun7rex&show_owner=0x71rex&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/0x71rex/hun7rex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x71rex&repo=hun7rex&show_owner=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&carad_width=495)](https://github.com/0x71rex/hun7rex)
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 :zap: GitHub Stats
 
 <a href="https://github.com/0x71rex">
-  <img align="center" alt="0x71rex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img align="center" alt="0x71rex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&card_width=495" />
 </a>
 <br />
 <a href="https://github.com/0x71rex">
