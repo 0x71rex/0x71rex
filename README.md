@@ -1,4 +1,4 @@
-### Good day, mate! 👋
+### Hello, Friend.
 
 
 
