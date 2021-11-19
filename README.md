@@ -4,10 +4,16 @@
 
 ### 🤙 Connect with me
 
-[![Chat on Discord](https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic)](https://discord.gg/cTKMyNuDNH)
+<a href="https://discord.gg/cTKMyNuDNH">
+  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic" width="151" height="18" />
+</a>
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex)
-
+<br />
+  
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex">
+  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic" />
+</a>
+                                                   
 ---
 
 ### 🧔 Profile
@@ -40,10 +46,7 @@
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
 <img align="left" alt="Mikrotik" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mikrotik/mikrotik.png" />
 
-
 <br />
-<br />
-
 
 <!--
 **0x71rex/0x71rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
