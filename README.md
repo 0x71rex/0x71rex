@@ -46,7 +46,7 @@
 <img align="left" alt="Windows" width="35px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/windows.png" />
 <img align="left" alt="Mikrotik" width="35px" src="https://raw.githubusercontent.com/0x71rex/0x71rex/main/static/mikrotik.png" />
 
-
+<br />
 <br />
 <br />
 <br />
@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/0x71rex">
   <img align="center" alt="0x71rex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="495" />
 </a>
+
 <br />
+
 <a href="https://github.com/0x71rex">
   <img align="center" alt="0x71rex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x71rex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </a>
