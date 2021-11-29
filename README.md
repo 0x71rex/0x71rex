@@ -8,7 +8,7 @@
 
 ### 🤙 Connect with me
 
-<a href="https://discord.gg/cTKMyNuDNH">
+<a href="https://discord.gg/QeGV2eexJA">
   <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic" width="151" height="19" />
 </a>
 
