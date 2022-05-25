@@ -15,7 +15,13 @@
 <br />
 
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex">
-  <img align="center" alt="0x71rex's Discord" src="https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic" width="151" height="19" />
+  <img align="center" alt="0x71rex's Twitter" src="https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic" width="151" height="19" />
+</a>
+
+<br />
+
+<a href="https://www.youtube.com/channel/UCFMPwtRoO4OmlPj2p-O-BUw">
+  <img align="center" alt="0x71rex's YouTube" src="https://img.shields.io/youtube/channel/subscribers/:channelId?color=1DA1F2&logo=appveyor&style=plastic" width="151" height="19" />
 </a>
 
 <br />
