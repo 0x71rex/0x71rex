@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://www.youtube.com/channel/UCFMPwtRoO4OmlPj2p-O-BUw">
-  <img align="center" alt="0x71rex's YouTube" src="[https://img.shields.io/youtube/channel/subscribers/UCFMPwtRoO4OmlPj2p-O-BUw?color=red&style=plastic](https://img.shields.io/youtube/channel/subscribers/UCFMPwtRoO4OmlPj2p-O-BUw?color=red&logoColor=red&style=social)" width="151" height="19" />
+  <img align="center" alt="0x71rex's YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCFMPwtRoO4OmlPj2p-O-BUw?color=red&logoColor=red&style=social" width="151" height="19" />
 </a>
 
 <br />
